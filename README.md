@@ -1,0 +1,1 @@
+# how-to-create-magic-square-for-special-date
